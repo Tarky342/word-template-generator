@@ -9,6 +9,4 @@ A minimal Node.js service to generate `.docx` files using a Word template and us
 3. Run `npm install && node index.js`
 4. POST to `http://localhost:3000/generate`
 
-## License
 
-MIT
